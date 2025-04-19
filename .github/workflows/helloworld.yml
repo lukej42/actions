@@ -1,4 +1,4 @@
-name: Hello World
+name: Hello Worl
 on:
     pull_request:
         types: [opened]
